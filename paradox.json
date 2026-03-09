@@ -1,6 +1,8 @@
 {
   "prompt": "surreal aerial view of a waterpark with exactly two waterslides starting from the same platform, no people standing anywhere on the top platform, both slides identical in silver material color, identical width, identical first visible section, identical curves and twists, the left slide open and transparent with riders visible and water flowing, the right slide closed and opaque hiding the interior completely, water flowing through both slides, no extra third slide, no crowds, cinematic lighting, conceptual paradox image, no text, no numbers, no signs",
   "model": "DALL·E 3",
-  "paradox": "The Ellsberg Paradox",
-  "visual_logic": "Two identical waterslides begin the same way, but one reveals its riders while the other hides them completely. Riders choose the visible slide, making preference for known risks over unknown risks feel immediate and inevitable."
+  "concept": "The Ellsberg Paradox",
+  "tradition_name": "Surrealism",
+  "tradition_period": "1920s–1940s",
+  "tradition_approach": "I targeted uncanny juxtapositions, dreamlike spatial logic, and precise realism used in Surrealism so a familiar leisure structure could embody irrational preference and concealed uncertainty."
 }
